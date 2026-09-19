@@ -21,7 +21,7 @@
 
 🎓 **B.Tech CSE (CCML) — 3rd Year Student**  
 🏫 **BBD University**  
- 🇮🇳 **India**  
+🇮🇳 **India**  
 
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & Data Science**
 - 💻 Building practical **software and AI-powered applications**
@@ -68,7 +68,7 @@
 
 ### 🏥 AI-Powered Smart Healthcare
 An intelligent healthcare system designed to provide advanced medical assistance, predictive health insights, and streamlined patient management using modern web technologies and AI.  
-🔗 **[Live Demo / Repository](#)** *(smart-healthcare-phi.vercel.app)*  
+🔗 **[Live Demo](https://smart-healthcare-phi.vercel.app/)**  
 **Tech:** TypeScript • Python • AI/ML • Web Development
 
 ### 💰 AI Finance Analyzer
