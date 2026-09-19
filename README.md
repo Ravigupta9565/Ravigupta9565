@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  AI & Data Science Enthusiast • Software Developer • Problem Solver
+  AI & Data Science Enthusiast • Machine Learning • Problem Solver
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 🎓 **B.Tech CSE (CCML) — 3rd Year Student**  
 🏫 **BBD University**  
-🇮🇳 **India**  
+ 🇮🇳 **India**  
 
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & Data Science**
 - 💻 Building practical **software and AI-powered applications**
@@ -68,7 +68,7 @@
 
 ### 🏥 AI-Powered Smart Healthcare
 An intelligent healthcare system designed to provide advanced medical assistance, predictive health insights, and streamlined patient management using modern web technologies and AI.  
-🔗 **[Live Demo / Repository](#)** *(Add your link here)*  
+🔗 **[Live Demo / Repository](#)** *(smart-healthcare-phi.vercel.app)*  
 **Tech:** TypeScript • Python • AI/ML • Web Development
 
 ### 💰 AI Finance Analyzer
