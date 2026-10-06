@@ -98,11 +98,6 @@ A personal developer portfolio showcasing projects, technical skills, and develo
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
